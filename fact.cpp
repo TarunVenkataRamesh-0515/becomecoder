@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-int dp[100005];
+int dp[100000];
 int fact(int n)
 {
 	if(n<=1)
